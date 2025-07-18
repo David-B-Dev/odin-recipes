@@ -23,3 +23,34 @@ a:focus,
 a:active {
   color: #EECC00;
 }
+
+/* Recipe page styling */
+.description {
+  width: auto;
+  height: 150px;
+
+  padding: 0px 0px;
+}
+
+img {
+  float: left;
+  margin-right: 10px;
+}
+
+.lentil-soup-title {
+  color:        #226622;
+  border-color: #226622;
+  background-color: #553322;
+}
+
+.rice-title {
+  color:        #FFFFFF;
+  border-color: #FFFFFF;
+  background-color: #CCCCCC;
+}
+
+.fried-eggs-title {
+  color:        #EECC00;
+  border-color: #EECC00;
+  background-color: #EEEEEE;
+}
